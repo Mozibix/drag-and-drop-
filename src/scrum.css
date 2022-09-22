@@ -1,0 +1,16 @@
+*{
+    position: relative;
+}
+
+nav {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: darkblue;
+  color: white;
+  position: absolute;
+  height: 5rem;
+  width: 82rem;
+  inset: -11rem -12rem;
+}
